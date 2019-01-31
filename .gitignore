@@ -8,5 +8,5 @@
 .idea/modules/
 .idea/uiDesigner.xml
 .idea/workspace.xml
-springboot-redis-cache-annotation/src/main/resources/static/
-springboot-redis-cache-annotation/src/main/resources/templates/
+#springboot-redis-cache-annotation/src/main/resources/static/
+#springboot-redis-cache-annotation/src/main/resources/templates/
