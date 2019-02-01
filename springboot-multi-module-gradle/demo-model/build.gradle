@@ -1,0 +1,9 @@
+plugins {
+    id 'java'
+}
+
+dependencies {
+
+    implementation 'com.baomidou:mybatis-plus:3.0.7.1'
+    
+}

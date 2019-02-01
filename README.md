@@ -6,10 +6,13 @@ Spring Boot学习笔记，主要记录Spring Boot学习笔记，以及与其他�
 
 - [springboot-redis-cache-annotation](./springboot-redis-cache-annotation)：Spring Boot集成Redis，通过使用注解的方式实现缓存
 
+- [springboot-multi-module-gradle](./springboot-multi-module-gradle)：使用Gradle构建Spring Boot多模块项目
 
 ## 计划
 
 * [x] Spring Boot与Redis集成
+
+* [x] Spring Boot构建多模块：[springboot-multi-module-gradle](./springboot-multi-module-gradle)
 
 * [ ] Spring Boot学习笔记系列
 

@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+    id 'war'
+}
+
+dependencies {
+    compile project(":demo-code")
+
+    compile 'org.springframework.boot:spring-boot-starter-web'
+
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+}

@@ -8,5 +8,9 @@
 .idea/modules/
 .idea/uiDesigner.xml
 .idea/workspace.xml
-#springboot-redis-cache-annotation/src/main/resources/static/
-#springboot-redis-cache-annotation/src/main/resources/templates/
+
+springboot-multi-module-gradle/demo-admin/build/
+springboot-multi-module-gradle/demo-code/out/
+springboot-multi-module-gradle/demo-model/out/
+springboot-multi-module-gradle/demo-web/build/
+springboot-multi-module-gradle/demo-web/out/

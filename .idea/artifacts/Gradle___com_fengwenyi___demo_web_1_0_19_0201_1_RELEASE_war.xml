@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : com.fengwenyi : demo-web-1.0.19.0201.1.RELEASE.war">
+    <output-path>$PROJECT_DIR$/springboot-multi-module-gradle/demo-web/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/springboot-multi-module-gradle" />
+    </properties>
+    <root id="archive" name="demo-web-1.0.19.0201.1.RELEASE.war">
+      <element id="artifact" artifact-name="Gradle : com.fengwenyi : demo-web-1.0.19.0201.1.RELEASE.war (exploded)" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,54 @@
+buildscript {
+    ext {
+        springBootVersion = '2.1.2.RELEASE'
+    }
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+    }
+}
+
+//apply plugin: 'java'
+
+
+//group = 'com.fengwenyi'
+//version = '0.0.1-SNAPSHOT'
+//sourceCompatibility = '1.8'
+
+allprojects {
+    // 统一引入 java 插件和版本指定
+    apply plugin :"java"
+    apply plugin: 'org.springframework.boot'
+    apply plugin: 'io.spring.dependency-management'
+    sourceCompatibility = 1.8
+
+    ext {
+        springBootVersion = '2.1.2.RELEASE'
+    }
+    
+    // 共用依赖配置
+    dependencies {
+        compile 'ch.qos.logback:logback-classic:1.2.3'
+        compileOnly 'org.projectlombok:lombok:1.18.4'
+    }
+
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        jcenter()
+    }
+}
+
+subprojects {
+    // 统一 group 和 version
+    group 'com.fengwenyi'
+    version '1.0.19.0201.1.RELEASE'
+}
+
+
+
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter'
+}

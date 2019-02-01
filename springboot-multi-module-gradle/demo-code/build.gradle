@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    
+    // 依赖 model 模块
+    compile project(":demo-model")
+
+    compile("com.baomidou:mybatis-plus-boot-starter:3.0.7.1")
+
+    compile("mysql:mysql-connector-java:8.0.14")
+
+    compile("com.alibaba:druid:1.1.13")
+}

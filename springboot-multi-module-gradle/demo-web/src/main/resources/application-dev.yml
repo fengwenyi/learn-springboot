@@ -1,0 +1,4 @@
+# SPRING PROFILES
+spring:
+  profiles:
+    include: [code-dev]

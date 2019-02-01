@@ -1,0 +1,6 @@
+rootProject.name = 'springboot-multi-module-gradle'
+include 'demo-code'
+include 'demo-model'
+include 'demo-web'
+include 'demo-admin'
+
