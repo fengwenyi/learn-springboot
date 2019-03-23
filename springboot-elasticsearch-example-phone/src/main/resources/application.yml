@@ -1,0 +1,11 @@
+
+server:
+  port: 9090
+
+spring:
+  data:
+    elasticsearch:
+      cluster-nodes: localhost:9300
+      cluster-name: es-wyf
+      repositories:
+        enabled: true
