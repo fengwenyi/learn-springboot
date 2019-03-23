@@ -26,9 +26,11 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-multi-module-maven/springboot-multi-module-maven.iml" filepath="$PROJECT_DIR$/springboot-multi-module-maven/springboot-multi-module-maven.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-netty-hello/springboot-netty-hello.iml" filepath="$PROJECT_DIR$/springboot-netty-hello/springboot-netty-hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-netty-protobuf/springboot-netty-protobuf.iml" filepath="$PROJECT_DIR$/springboot-netty-protobuf/springboot-netty-protobuf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-quartz/springboot-quartz.iml" filepath="$PROJECT_DIR$/springboot-quartz/springboot-quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-redis-cache-annotation.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-redis-cache-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-redis-cache-annotation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-redis-cache-annotation.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-redis-cache-annotation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-redis-cache-annotation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" filepath="$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" />
     </modules>
   </component>
 </project>

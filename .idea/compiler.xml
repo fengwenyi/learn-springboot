@@ -13,6 +13,7 @@
         <module name="springboot-elasticsearch" />
         <module name="springboot-elasticsearch-example-phone" />
         <module name="springboot-netty-hello" />
+        <module name="springboot-quartz" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -41,6 +42,7 @@
       <module name="springboot-multi-module-gradle.demo-web.test" target="1.8" />
       <module name="springboot-multi-module-maven" target="1.5" />
       <module name="springboot-netty-hello" target="1.8" />
+      <module name="springboot-quartz" target="1.8" />
       <module name="springboot-redis-cache-annotation.main" target="1.8" />
       <module name="springboot-redis-cache-annotation.test" target="1.8" />
     </bytecodeTargetLevel>
@@ -54,6 +56,7 @@
       <module name="springboot-elasticsearch-example-phone" options="-parameters" />
       <module name="springboot-multi-module-maven" options="-parameters" />
       <module name="springboot-netty-hello" options="-parameters" />
+      <module name="springboot-quartz" options="-parameters" />
     </option>
   </component>
 </project>

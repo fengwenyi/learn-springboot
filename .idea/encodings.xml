@@ -8,5 +8,6 @@
     <file url="file://$PROJECT_DIR$/springboot-multi-module-maven/application" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-multi-module-maven/library" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-netty-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-quartz" charset="UTF-8" />
   </component>
 </project>
