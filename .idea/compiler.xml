@@ -6,15 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-elasticsearch" />
         <module name="springboot-elasticsearch-example-phone" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="springboot-elasticsearch" target="1.8" />
       <module name="springboot-elasticsearch-example-phone" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot-elasticsearch" options="-parameters" />
       <module name="springboot-elasticsearch-example-phone" options="-parameters" />
     </option>
   </component>

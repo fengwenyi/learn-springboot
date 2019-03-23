@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-elasticsearch/springboot-elasticsearch.iml" filepath="$PROJECT_DIR$/springboot-elasticsearch/springboot-elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-elasticsearch-example-phone/springboot-elasticsearch-example-phone.iml" filepath="$PROJECT_DIR$/springboot-elasticsearch-example-phone/springboot-elasticsearch-example-phone.iml" />
     </modules>
   </component>
