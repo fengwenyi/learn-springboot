@@ -5,10 +5,14 @@
       <list>
         <option value="$PROJECT_DIR$/springboot-elasticsearch-example-phone/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-api-date/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-multi-module-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-multi-module-maven/application/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-netty-hello/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    #active: '@profileActive@'
+    active: dev
+  application:
+    name: springboot-multi-module-maven-application

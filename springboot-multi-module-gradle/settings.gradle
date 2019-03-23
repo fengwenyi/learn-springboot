@@ -1,0 +1,11 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+rootProject.name = 'springboot-multi-module-gradle'
+
+include 'demo-model'
+include 'demo-core'
+include 'demo-web'
+
