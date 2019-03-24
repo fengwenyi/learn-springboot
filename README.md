@@ -1,6 +1,38 @@
 # Spring Boot Learning Notes
 
-Spring Boot学习笔记，主要记录Spring Boot学习笔记，以及与其他一些框架集成的配置、示例
+Spring Boot学习笔记
+
+记录自己学习Spring Boot，以及与其他一些框架集成的配置、示例
+
+## 计划
+
+#### Spring Boot
+
+* [x] Spring Boot构建多模块
+
+#### Spring Boot与第三方框架集成
+
+* [x] Spring Boot与Redis集成
+
+* [x] Spring Boot与WebSocket
+
+* [x] Spring Boot与Elasticsearch集成
+
+* [x] Spring Boot与Netty集成
+
+* [x] Spring Boot与MyBatis集成
+
+* [x] Spring Boot与MyBatis Plus集成
+
+* [x] Spring Boot与Logback集成
+
+* [x] Spring Boot与mail
+
+* [x] Spring Boot与poi
+
+* [x] Spring Boot与swagger
+
+* [ ] Spring Boot与Docker集成
 
 ## 目录
 
@@ -11,34 +43,6 @@ Spring Boot学习笔记，主要记录Spring Boot学习笔记，以及与其他�
 - [springboot-elasticsearch](./springboot-elasticsearch)：Spring Boot整合Elasticsearch
 
 - [springboot-elasticsearch-example-phone](./springboot-elasticsearch-example-phone)：Spring Boot结合Elasticsearch，手机信息搜索小例子
-
-## 计划
-
-* [x] Spring Boot与Redis集成
-
-* [x] Spring Boot构建多模块：[springboot-multi-module-gradle](./springboot-multi-module-gradle)
-
-* [ ] Spring Boot学习笔记系列
-
-* [ ] Spring Boot与MyBatis集成
-
-* [ ] Spring Boot与MyBatis Plus集成
-
-* [ ] Spring Boot与Docker集成
-
-* [ ] Spring Boot与Logback集成
-
-* [ ] Spring Boot与mail
-
-* [ ] Spring Boot与poi
-
-* [ ] Spring Boot与swagger
-
-* [ ] Spring Boot与WebSocket
-
-* [x] Spring Boot与Elasticsearch集成
-
-* [ ] Spring Boot与Netty集成
 
 ## 开始
 
@@ -53,6 +57,16 @@ Spring Boot学习笔记，主要记录Spring Boot学习笔记，以及与其他�
 
 
 ## 作者
+
+我是冯文议，英文名：Erwin Feng。
+
+2017年毕业于阿坝师范学院计算机应用专业，主修Java方向。
+
+有2年工作经验，现就职于深圳警圣技术股份有限公司，主要负责服务器接口开发工作。
+
+开源软件：JavaLib。
+
+## 链接
 
 - [个人网站](https://fengwenyi.com)
 

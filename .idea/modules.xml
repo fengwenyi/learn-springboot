@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboot-multi-module-maven/application/application.iml" filepath="$PROJECT_DIR$/springboot-multi-module-maven/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-core/com.fengwenyi.demo-core.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-core/com.fengwenyi.demo-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-core/com.fengwenyi.demo-core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-core/com.fengwenyi.demo-core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-core/com.fengwenyi.demo-core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-core/com.fengwenyi.demo-core.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-model/com.fengwenyi.demo-model.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-model/com.fengwenyi.demo-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-model/com.fengwenyi.demo-model.main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-model/com.fengwenyi.demo-model.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-model/com.fengwenyi.demo-model.test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-model/com.fengwenyi.demo-model.test.iml" />
@@ -11,7 +14,11 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.fengwenyi.springboot-errorpage.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.fengwenyi.springboot-errorpage.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-multi-module-maven/demo-core.iml" filepath="$PROJECT_DIR$/springboot-multi-module-maven/demo-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-model.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-model/demo-model.com.fengwenyi.demo-model.main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-model/demo-model.com.fengwenyi.demo-model.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-model/demo-model.com.fengwenyi.demo-model.test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-model/demo-model.com.fengwenyi.demo-model.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-web.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-web/learn-springboot.springboot-multi-module-gradle.demo-web.main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-web/learn-springboot.springboot-multi-module-gradle.demo-web.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-web/learn-springboot.springboot-multi-module-gradle.demo-web.test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-web/learn-springboot.springboot-multi-module-gradle.demo-web.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-multi-module-maven/library/library.iml" filepath="$PROJECT_DIR$/springboot-multi-module-maven/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-api-date/springboot-api-date.iml" filepath="$PROJECT_DIR$/springboot-api-date/springboot-api-date.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-elasticsearch/springboot-elasticsearch.iml" filepath="$PROJECT_DIR$/springboot-elasticsearch/springboot-elasticsearch.iml" />

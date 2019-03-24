@@ -30,6 +30,10 @@
       <module name="com.fengwenyi.springboot-multi-module-gradle.test" target="1.8" />
       <module name="com.fengwenyi.springboot-redis-cache-annotation.main" target="1.8" />
       <module name="com.fengwenyi.springboot-redis-cache-annotation.test" target="1.8" />
+      <module name="demo-model.com.fengwenyi.demo-model.main" target="1.8" />
+      <module name="demo-model.com.fengwenyi.demo-model.test" target="1.8" />
+      <module name="learn-springboot.springboot-multi-module-gradle.demo-web.main" target="1.8" />
+      <module name="learn-springboot.springboot-multi-module-gradle.demo-web.test" target="1.8" />
       <module name="library" target="1.8" />
       <module name="springboot-api-date" target="1.8" />
       <module name="springboot-elasticsearch" target="1.8" />

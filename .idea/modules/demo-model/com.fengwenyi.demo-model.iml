@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id=":demo-model" external.linked.project.path="$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-model" external.root.project.path="$MODULE_DIR$/../../../springboot-multi-module-gradle" external.system.id="GRADLE" external.system.module.group="com.fengwenyi" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../../springboot-multi-module-gradle" rootProjectPath="$MODULE_DIR$/../../../springboot-multi-module-gradle" />
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="com.fengwenyi" externalSystemModuleVersion="0.0.1-SNAPSHOT" linkedProjectId=":demo-model" linkedProjectPath="$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-model" rootProjectPath="$MODULE_DIR$/../../../springboot-multi-module-gradle" />
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-model">
