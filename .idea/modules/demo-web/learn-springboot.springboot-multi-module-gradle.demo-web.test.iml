@@ -12,7 +12,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output-test url="file://$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-web/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-web/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-web/src/test">
       <sourceFolder url="file://$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-web/src/test/java" isTestSource="true" />
@@ -23,7 +23,7 @@
     <orderEntry type="module" module-name="learn-springboot.springboot-multi-module-gradle.demo-web.main" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-actuator:2.0.3.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-web:2.0.3.RELEASE" level="project" />
-    <orderEntry type="module" module-name="com.fengwenyi.demo-core.main" />
+    <orderEntry type="module" module-name="com.fengwenyi.springboot-multi-module-gradle.demo-core.main" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-test:2.0.3.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-json:2.0.3.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter:2.0.3.RELEASE" level="project" />
@@ -33,7 +33,7 @@
     <orderEntry type="library" name="Gradle: org.hibernate.validator:hibernate-validator:6.0.10.Final" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-webmvc:5.0.7.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-web:5.0.7.RELEASE" level="project" />
-    <orderEntry type="module" module-name="demo-model.com.fengwenyi.demo-model.main" />
+    <orderEntry type="module" module-name="springboot-multi-module-gradle.demo-model.main" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-test-autoconfigure:2.0.3.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-test:2.0.3.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: com.jayway.jsonpath:json-path:2.4.0" level="project" />

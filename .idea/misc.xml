@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/springboot-multi-module-maven/application/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-netty-hello/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-hbase/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-jenkins-docker/pom.xml" />
       </list>
     </option>
   </component>

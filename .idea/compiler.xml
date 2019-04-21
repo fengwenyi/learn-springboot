@@ -7,13 +7,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="application" />
+        <module name="springboot-elasticsearch-example-phone" />
+        <module name="springboot-elasticsearch" />
+        <module name="springboot-jenkins-docker" />
         <module name="library" />
         <module name="springboot-api-date" />
-        <module name="springboot-elasticsearch" />
-        <module name="springboot-elasticsearch-example-phone" />
         <module name="springboot-netty-hello" />
+        <module name="springboot-hbase" />
         <module name="springboot-quartz" />
+        <module name="application" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,6 +28,8 @@
       <module name="com.fengwenyi.demo-web.test" target="1.8" />
       <module name="com.fengwenyi.springboot-errorpage.main" target="1.8" />
       <module name="com.fengwenyi.springboot-errorpage.test" target="1.8" />
+      <module name="com.fengwenyi.springboot-multi-module-gradle.demo-core.main" target="1.8" />
+      <module name="com.fengwenyi.springboot-multi-module-gradle.demo-core.test" target="1.8" />
       <module name="com.fengwenyi.springboot-multi-module-gradle.main" target="1.8" />
       <module name="com.fengwenyi.springboot-multi-module-gradle.test" target="1.8" />
       <module name="com.fengwenyi.springboot-redis-cache-annotation.main" target="1.8" />
@@ -34,10 +38,16 @@
       <module name="demo-model.com.fengwenyi.demo-model.test" target="1.8" />
       <module name="learn-springboot.springboot-multi-module-gradle.demo-web.main" target="1.8" />
       <module name="learn-springboot.springboot-multi-module-gradle.demo-web.test" target="1.8" />
+      <module name="learn-springboot.springboot-redis-cache-annotation.main" target="1.8" />
+      <module name="learn-springboot.springboot-redis-cache-annotation.test" target="1.8" />
       <module name="library" target="1.8" />
       <module name="springboot-api-date" target="1.8" />
       <module name="springboot-elasticsearch" target="1.8" />
       <module name="springboot-elasticsearch-example-phone" target="1.8" />
+      <module name="springboot-errorpage.main" target="1.8" />
+      <module name="springboot-errorpage.test" target="1.8" />
+      <module name="springboot-hbase" target="1.8" />
+      <module name="springboot-jenkins-docker" target="1.8" />
       <module name="springboot-multi-module-gradle.demo-core.main" target="1.8" />
       <module name="springboot-multi-module-gradle.demo-core.test" target="1.8" />
       <module name="springboot-multi-module-gradle.demo-model.main" target="1.8" />
@@ -58,6 +68,8 @@
       <module name="springboot-api-date" options="-parameters" />
       <module name="springboot-elasticsearch" options="-parameters" />
       <module name="springboot-elasticsearch-example-phone" options="-parameters" />
+      <module name="springboot-hbase" options="-parameters" />
+      <module name="springboot-jenkins-docker" options="-parameters" />
       <module name="springboot-multi-module-maven" options="-parameters" />
       <module name="springboot-netty-hello" options="-parameters" />
       <module name="springboot-quartz" options="-parameters" />

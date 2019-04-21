@@ -1,0 +1,5 @@
+spring:
+  data:
+    elasticsearch:
+      cluster-nodes: 192.168.1.201:9300, 192.168.1.202:9300, 192.168.1.203:9300
+      cluster-name: jsdzelk

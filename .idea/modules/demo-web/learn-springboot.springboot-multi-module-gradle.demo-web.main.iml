@@ -11,7 +11,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-web/out/production/classes" />
+    <output url="file://$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-web/build/classes/java/main" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-web/src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-web/src/main/java" isTestSource="false" />
@@ -21,7 +21,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-actuator:2.0.3.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-web:2.0.3.RELEASE" level="project" />
-    <orderEntry type="module" module-name="com.fengwenyi.demo-core.main" />
+    <orderEntry type="module" module-name="com.fengwenyi.springboot-multi-module-gradle.demo-core.main" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-json:2.0.3.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter:2.0.3.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-actuator-autoconfigure:2.0.3.RELEASE" level="project" />
@@ -30,7 +30,7 @@
     <orderEntry type="library" name="Gradle: org.hibernate.validator:hibernate-validator:6.0.10.Final" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-webmvc:5.0.7.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-web:5.0.7.RELEASE" level="project" />
-    <orderEntry type="module" module-name="demo-model.com.fengwenyi.demo-model.main" />
+    <orderEntry type="module" module-name="springboot-multi-module-gradle.demo-model.main" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-autoconfigure:2.0.3.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-actuator:2.0.3.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot:2.0.3.RELEASE" level="project" />

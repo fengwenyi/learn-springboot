@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id=":demo-model:main" external.linked.project.path="$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-model" external.root.project.path="$MODULE_DIR$/../../../springboot-multi-module-gradle" external.system.id="GRADLE" external.system.module.group="com.fengwenyi" external.system.module.type="sourceSet" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-model/out/production/classes" />
+    <output url="file://$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-model/build/classes/java/main" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-model/src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../../springboot-multi-module-gradle/demo-model/src/main/java" isTestSource="false" />
