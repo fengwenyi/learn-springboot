@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/springboot-api-date" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-elasticsearch-dynamic-index" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-elasticsearch-example-phone" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-hbase" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-jenkins-docker" charset="UTF-8" />
@@ -11,5 +12,6 @@
     <file url="file://$PROJECT_DIR$/springboot-multi-module-maven/library" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-netty-hello" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-security" charset="UTF-8" />
   </component>
 </project>

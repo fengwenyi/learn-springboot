@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-multi-module-maven/library/library.iml" filepath="$PROJECT_DIR$/springboot-multi-module-maven/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-api-date/springboot-api-date.iml" filepath="$PROJECT_DIR$/springboot-api-date/springboot-api-date.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-elasticsearch/springboot-elasticsearch.iml" filepath="$PROJECT_DIR$/springboot-elasticsearch/springboot-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/springboot-elasticsearch-dynamic-index.iml" filepath="$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/springboot-elasticsearch-dynamic-index.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-elasticsearch-example-phone/springboot-elasticsearch-example-phone.iml" filepath="$PROJECT_DIR$/springboot-elasticsearch-example-phone/springboot-elasticsearch-example-phone.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-errorpage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-errorpage.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-errorpage.test.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-errorpage.test.iml" />
@@ -42,6 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-redis-cache-annotation.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-redis-cache-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-redis-cache-annotation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-redis-cache-annotation.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-redis-cache-annotation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-redis-cache-annotation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-security/springboot-security.iml" filepath="$PROJECT_DIR$/springboot-security/springboot-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" filepath="$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" />
     </modules>
   </component>

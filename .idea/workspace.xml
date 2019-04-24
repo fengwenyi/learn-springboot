@@ -2,132 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28641484-3174-42c1-a61b-56dd22807bf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_6_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_annotations_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_client_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_common_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_1_0_incubating.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_jcodings_jcodings_1_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_joni_joni_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/demo-core/com.fengwenyi.springboot-multi-module-gradle.demo-core.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/demo-core/com.fengwenyi.springboot-multi-module-gradle.demo-core.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/demo-model/springboot-multi-module-gradle.demo-model.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/demo-model/springboot-multi-module-gradle.demo-model.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/demo-model/springboot-multi-module-gradle.demo-model.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/learn-springboot.springboot-redis-cache-annotation.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/learn-springboot.springboot-redis-cache-annotation.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/springboot-errorpage.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/springboot-errorpage.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/fengwenyi/springbootelasticsearch/UserModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/fengwenyi/springbootelasticsearch/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-hbase/src/main/java/com/fengwenyi/springboothbase/HbaseConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-hbase/src/main/java/com/fengwenyi/springboothbase/HbaseProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-hbase/src/main/java/com/fengwenyi/springboothbase/HbaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-hbase/src/main/java/com/fengwenyi/springboothbase/HbaseServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-hbase/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-hbase/src/test/java/com/fengwenyi/springboothbase/HBaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jenkins-docker/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jenkins-docker/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jenkins-docker/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jenkins-docker/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jenkins-docker/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jenkins-docker/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jenkins-docker/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jenkins-docker/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jenkins-docker/src/main/docker/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jenkins-docker/src/main/java/com/fengwenyi/springbootjenkinsdocker/SpringbootJenkinsDockerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jenkins-docker/src/test/java/com/fengwenyi/springbootjenkinsdocker/SpringbootJenkinsDockerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_elasticsearch_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_elasticsearch_3_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/IndexCreateBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/IndexTestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/IndexTestRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/CustomUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/MyAccessDecisionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/MyInvocationSecurityMetadataSourceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/VerifyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/WebSecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.fengwenyi.springboot-errorpage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.fengwenyi.springboot-errorpage.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/demo-core/com.fengwenyi.demo-core.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/demo-core/com.fengwenyi.demo-core.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/demo-core/com.fengwenyi.demo-core.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/demo-core/springboot-multi-module-gradle.demo-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/demo-core/springboot-multi-module-gradle.demo-core.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/demo-model/com.fengwenyi.demo-model.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/demo-model/demo-model.com.fengwenyi.demo-model.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/demo-model/demo-model.com.fengwenyi.demo-model.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/demo-web/learn-springboot.springboot-multi-module-gradle.demo-web.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/demo-web/learn-springboot.springboot-multi-module-gradle.demo-web.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/demo-web/learn-springboot.springboot-multi-module-gradle.demo-web.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/demo-web/learn-springboot.springboot-multi-module-gradle.demo-web.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/springboot-redis-cache-annotation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/springboot-redis-cache-annotation.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-api-date/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-api-date/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-api-date/src/main/java/com/fengwenyi/springbootapidate/SpringbootApiDateApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-api-date/src/main/java/com/fengwenyi/springbootapidate/SpringbootApiDateApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-api-date/src/main/java/com/fengwenyi/springbootapidate/UserVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-api-date/src/main/java/com/fengwenyi/springbootapidate/UserVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-elasticsearch-example-phone/src/main/java/com/fengwenyi/springbootelasticsearchexamplephone/model/PhoneModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-elasticsearch-example-phone/src/main/java/com/fengwenyi/springbootelasticsearchexamplephone/model/PhoneModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-elasticsearch/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jenkins-docker/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/fengwenyi/springbootelasticsearch/SpringbootElasticsearchApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/fengwenyi/springbootelasticsearch/SpringbootElasticsearchApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/springboot-elasticsearch-example-phone/target/" />
     <ignored path="$PROJECT_DIR$/springboot-elasticsearch/target/" />
@@ -157,6 +67,9 @@
     <ignored path="$PROJECT_DIR$/springboot-quartz/target/" />
     <ignored path="$PROJECT_DIR$/springboot-hbase/target/" />
     <ignored path="$PROJECT_DIR$/springboot-jenkins-docker/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-security/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-elasticsearch-bynamic-index/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,32 +100,104 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-jenkins-docker/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-547">
-              <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-example-phone/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springboot-jenkins-docker/src/main/docker/Dockerfile">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            <state relative-caret-position="112">
+              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-jenkins-docker/src/main/java/com/fengwenyi/springbootjenkinsdocker/SpringbootJenkinsDockerApplication.java">
+        <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/IndexCreateBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/IndexTestModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/fengwenyi/springbootelasticsearch/UserModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/fengwenyi/springbootelasticsearch/SpringbootElasticsearchApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="9" column="81" selection-start-line="9" selection-start-column="81" selection-end-line="9" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-example-phone/src/main/java/com/fengwenyi/springbootelasticsearchexamplephone/SpringbootElasticsearchExamplePhoneApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/IndexTestRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding>
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/SpringbootElasticsearchDynamicIndexApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="14" column="81" selection-start-line="14" selection-start-column="81" selection-end-line="14" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#814#815#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1372">
+              <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -233,18 +218,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/springboot-elasticsearch-example-phone/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-elasticsearch-example-phone/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/springboot-elasticsearch-example-phone/src/main/java/com/fengwenyi/springbootelasticsearchexamplephone/controller/InitController.java" />
-        <option value="$PROJECT_DIR$/springboot-elasticsearch-example-phone/src/main/java/com/fengwenyi/springbootelasticsearchexamplephone/controller/PhoneController.java" />
-        <option value="$PROJECT_DIR$/springboot-elasticsearch-example-phone/README.md" />
-        <option value="$PROJECT_DIR$/springboot-api-date/README.md" />
-        <option value="$PROJECT_DIR$/springboot-multi-module-gradle/demo-core/src/main/java/com/fengwenyi/core/db/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/springboot-multi-module-gradle/build.gradle" />
-        <option value="$PROJECT_DIR$/springboot-multi-module-gradle/demo-model/build.gradle" />
-        <option value="$PROJECT_DIR$/springboot-multi-module-gradle/demo-model/src/main/java/com/fengwenyi/model/UserModel.java" />
-        <option value="$PROJECT_DIR$/springboot-multi-module-gradle/demo-core/src/main/resources/application-core.yml" />
-        <option value="$PROJECT_DIR$/springboot-multi-module-gradle/demo-web/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springboot-multi-module-gradle/settings.gradle" />
         <option value="$PROJECT_DIR$/springboot-multi-module-gradle/demo-web/build.gradle" />
         <option value="$PROJECT_DIR$/springboot-multi-module-gradle/README.md" />
@@ -278,6 +251,24 @@
         <option value="$PROJECT_DIR$/springboot-jenkins-docker/src/main/java/com/fengwenyi/springbootjenkinsdocker/SpringbootJenkinsDockerApplication.java" />
         <option value="$PROJECT_DIR$/springboot-jenkins-docker/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-jenkins-docker/src/main/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/springboot-security/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/UserDetailsImpl.java" />
+        <option value="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/VerifyFilter.java" />
+        <option value="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/AdminController.java" />
+        <option value="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/UserController.java" />
+        <option value="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/MyInvocationSecurityMetadataSourceService.java" />
+        <option value="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/MyAccessDecisionManager.java" />
+        <option value="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/CustomUserService.java" />
+        <option value="$PROJECT_DIR$/springboot-security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/SecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/IndexTestRepository.java" />
+        <option value="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/fengwenyi/springbootelasticsearch/SpringbootElasticsearchApplication.java" />
+        <option value="$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/SpringbootElasticsearchDynamicIndexApplication.java" />
+        <option value="$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/IndexCreateBean.java" />
+        <option value="$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/IndexTestModel.java" />
       </list>
     </option>
   </component>
@@ -308,22 +299,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="learn-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-jenkins-docker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-jenkins-docker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -337,6 +313,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554374020939" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -346,14 +323,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fengwenyi.springbootsecurity" />
       <recent name="com.fengwenyi.springbootmultimodulegradle" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/resources" />
       <recent name="$PROJECT_DIR$/springboot-netty-protobuf" />
       <recent name="$PROJECT_DIR$/springboot-netty-hello" />
       <recent name="$PROJECT_DIR$/springboot-errorpage" />
       <recent name="$PROJECT_DIR$/springboot-redis-cache-annotation" />
-      <recent name="$PROJECT_DIR$/springboot-multi-module-maven/application/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -368,7 +346,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringbootApiDateApplication">
+  <component name="RunManager" selected="Spring Boot.SpringbootElasticsearchBynamicIndexApplication">
     <configuration name="HBaseConnection.conn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-hbase" />
       <extension name="coverage">
@@ -409,6 +387,13 @@
     <configuration name="SpringbootElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-elasticsearch" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fengwenyi.springbootelasticsearch.SpringbootElasticsearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootElasticsearchBynamicIndexApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-elasticsearch-dynamic-index" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fengwenyi.springbootelasticsearchbynamicindex.SpringbootElasticsearchDynamicIndexApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -489,6 +474,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringbootSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fengwenyi.springbootsecurity.SpringbootSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JUnit.HBaseConnection.conn" />
       <item itemvalue="Spring Boot.SpringbootApiDateApplication" />
@@ -501,8 +493,10 @@
       <item itemvalue="Spring Boot.SpringbootNettyHelloApplication" />
       <item itemvalue="Spring Boot.SpringbootQuartzApplication" />
       <item itemvalue="Spring Boot.SpringbootHbaseApplication" />
-      <item itemvalue="Spring Boot.SpringbootMultiModuleGradleApplication" />
       <item itemvalue="Spring Boot.SpringbootJenkinsDockerApplication" />
+      <item itemvalue="Spring Boot.SpringbootSecurityApplication" />
+      <item itemvalue="Spring Boot.SpringbootMultiModuleGradleApplication" />
+      <item itemvalue="Spring Boot.SpringbootElasticsearchBynamicIndexApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -534,7 +528,12 @@
       <workItem from="1554339859538" duration="3657000" />
       <workItem from="1554975828638" duration="873000" />
       <workItem from="1554977882348" duration="310000" />
-      <workItem from="1555827514089" duration="798000" />
+      <workItem from="1555827514089" duration="1081000" />
+      <workItem from="1555928261316" duration="733000" />
+      <workItem from="1555981534561" duration="5000" />
+      <workItem from="1555983348753" duration="5219000" />
+      <workItem from="1556005173564" duration="847000" />
+      <workItem from="1556074570396" duration="3032000" />
     </task>
     <task id="LOCAL-00001" summary="Spring Boot整合Elasticsearch">
       <created>1553316670203</created>
@@ -571,7 +570,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553405790043</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Spring Boot Jenkins Docker">
+      <created>1555828466094</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555828466095</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -580,12 +586,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25345000" />
+    <option name="totallyTimeSpent" value="35464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="42" width="1400" height="782" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.42047128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4388807" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -596,7 +602,7 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40869564" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6057971" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.65362316" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -637,251 +643,10 @@
     <MESSAGE value="重新整理" />
     <MESSAGE value="计划写：springboot与quartz,shiro的整合" />
     <MESSAGE value="完善说明" />
-    <option name="LAST_COMMIT_MESSAGE" value="完善说明" />
+    <MESSAGE value="Spring Boot Jenkins Docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring Boot Jenkins Docker" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springboot-multi-module-maven/application/src/main/java/com/fengwneyi/application/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-multi-module-maven/application/src/main/resources/application-dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-multi-module-maven/application/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-multi-module-maven/library/src/main/resources/application-core.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-multi-module-maven/library/src/main/resources/application-core-dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-multi-module-gradle/demo-core/src/main/resources/application-core.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-multi-module-gradle/demo-core/src/main/resources/application-core-dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-multi-module-gradle/demo-web/src/main/resources/application-dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-multi-module-maven/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="22" selection-start-column="22" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-redis-cache-annotation/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2342" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-redis-cache-annotation/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-redis-cache-annotation/src/main/java/com/fengwenyi/springbootrediscacheannotation/SpringbootRedisCacheAnnotationApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-redis-cache-annotation/src/main/java/com/fengwenyi/springbootrediscacheannotation/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-errorpage/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-errorpage/src/main/java/com/fengwenyi/springbooterrorpage/SpringbootErrorpageApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-netty-hello/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-netty-protobuf/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-multi-module-gradle/demo-core/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-multi-module-gradle/demo-model/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1848">
-            <caret line="66" column="13" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-hbase/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1764">
-          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-hbase/src/main/java/com/fengwenyi/springboothbase/HbaseConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-hbase/src/main/java/com/fengwenyi/springboothbase/HbaseServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1372">
-          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch/src/main/resources/application.properties" />
-    <entry file="file://$PROJECT_DIR$/springboot-hbase/src/main/java/com/fengwenyi/springboothbase/SpringbootHbaseApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-hbase/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-hbase/src/test/java/com/fengwenyi/springboothbase/HBaseConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/fengwenyi/springbootelasticsearch/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/fengwenyi/JavaLib/1.0.7.RELEASE/JavaLib-1.0.7.RELEASE.jar!/com/fengwenyi/javalib/result/Result.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/fengwenyi/springbootelasticsearch/SpringbootElasticsearchApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-example-phone/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-example-phone/src/main/java/com/fengwenyi/springbootelasticsearchexamplephone/controller/InitController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-example-phone/src/main/java/com/fengwenyi/springbootelasticsearchexamplephone/SpringbootElasticsearchExamplePhoneApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE.jar!/org/springframework/format/annotation/DateTimeFormat.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar!/com/fasterxml/jackson/annotation/JsonFormat.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-example-phone/src/main/java/com/fengwenyi/springbootelasticsearchexamplephone/controller/PhoneController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3556">
@@ -1000,16 +765,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/fengwenyi/springbootelasticsearch/UserModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="11" column="92" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-example-phone/src/main/java/com/fengwenyi/springbootelasticsearchexamplephone/model/PhoneModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1176">
@@ -1027,6 +782,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-jenkins-docker/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-jenkins-docker/src/main/java/com/fengwenyi/springbootjenkinsdocker/SpringbootJenkinsDockerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -1038,17 +800,322 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-jenkins-docker/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-547">
-          <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-jenkins-docker/src/main/docker/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
-          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE.jar!/org/springframework/security/core/userdetails/User.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-security/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE-sources.jar!/org/springframework/security/core/userdetails/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="109" column="88" selection-start-line="109" selection-start-column="88" selection-end-line="109" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/UserDetailsImpl.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE-sources.jar!/org/springframework/security/access/AccessDecisionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE-sources.jar!/org/springframework/security/core/GrantedAuthority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE-sources.jar!/org/springframework/security/core/authority/SimpleGrantedAuthority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UsernameNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+          <folding>
+            <element signature="e#1264#1265#0" expanded="true" />
+            <element signature="e#1281#1282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE-sources.jar!/org/springframework/security/core/AuthenticationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/CustomUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/MyAccessDecisionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/MyInvocationSecurityMetadataSourceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/VerifyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="59" column="74" lean-forward="true" selection-start-line="59" selection-start-column="74" selection-end-line="59" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE.jar!/org/springframework/security/config/annotation/web/WebSecurityConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="90" lean-forward="true" selection-start-line="11" selection-start-column="90" selection-end-line="11" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE.jar!/org/springframework/security/config/annotation/SecurityConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/SecurityBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/SecurityConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/WebSecurityConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="92" column="22" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="20" column="67" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-security/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-267">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE-sources.jar!/org/springframework/security/crypto/password/PasswordEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/SpringbootSecurityApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-security/src/main/java/com/fengwenyi/springbootsecurity/SecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="35" column="71" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-example-phone/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1372">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-example-phone/src/main/java/com/fengwenyi/springbootelasticsearchexamplephone/SpringbootElasticsearchExamplePhoneApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/fengwenyi/springbootelasticsearch/SpringbootElasticsearchApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="9" column="81" selection-start-line="9" selection-start-column="81" selection-end-line="9" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/fengwenyi/springbootelasticsearch/UserModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/SpringbootElasticsearchDynamicIndexApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="14" column="81" selection-start-line="14" selection-start-column="81" selection-end-line="14" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/IndexTestRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/IndexCreateBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-elasticsearch-dynamic-index/src/main/java/com/fengwenyi/springbootelasticsearchbynamicindex/IndexTestModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
