@@ -4,6 +4,10 @@ Spring Boot学习笔记
 
 记录自己学习Spring Boot，以及与其他一些框架集成的配置、示例
 
+## 项目
+
+整个项目采用多模块架构，顶层项目learn-springboot的父工程是Spring Boot，然后其他Model的父工程是learn-springboot
+
 ## 计划
 
 #### Spring Boot
@@ -32,7 +36,11 @@ Spring Boot学习笔记
 
 * [x] Spring Boot与swagger
 
-* [ ] Spring Boot与Docker集成
+* [x] Spring Boot与Docker集成
+
+* [ ] ~~Spring Boot与jenkins~~
+
+* [x] Spring Boot与Kafka
 
 ## 目录
 
